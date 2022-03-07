@@ -1,0 +1,1 @@
+Estudos relacionados a Inteligência Artificial e Visão Computacional
